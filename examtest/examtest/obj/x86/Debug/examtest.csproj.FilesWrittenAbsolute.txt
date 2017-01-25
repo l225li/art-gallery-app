@@ -1,0 +1,5 @@
+/Users/Lin/Projects/examtest/examtest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Lin/Projects/examtest/examtest/bin/Debug/examtest.exe.mdb
+/Users/Lin/Projects/examtest/examtest/bin/Debug/examtest.exe
+/Users/Lin/Projects/examtest/examtest/obj/x86/Debug/examtest.exe
+/Users/Lin/Projects/examtest/examtest/obj/x86/Debug/examtest.exe.mdb

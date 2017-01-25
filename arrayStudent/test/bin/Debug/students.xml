@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfStudent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Student>
+    <name>bb</name>
+    <score>1</score>
+  </Student>
+  <Student>
+    <name>om</name>
+    <score>14</score>
+  </Student>
+</ArrayOfStudent>

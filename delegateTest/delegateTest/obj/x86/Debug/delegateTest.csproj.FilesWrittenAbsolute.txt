@@ -1,0 +1,5 @@
+/Users/Lin/Projects/delegateTest/delegateTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Lin/Projects/delegateTest/delegateTest/bin/Debug/delegateTest.exe.mdb
+/Users/Lin/Projects/delegateTest/delegateTest/bin/Debug/delegateTest.exe
+/Users/Lin/Projects/delegateTest/delegateTest/obj/x86/Debug/delegateTest.exe
+/Users/Lin/Projects/delegateTest/delegateTest/obj/x86/Debug/delegateTest.exe.mdb
